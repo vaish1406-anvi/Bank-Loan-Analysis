@@ -29,7 +29,15 @@ The objective of this project is to help financial institutions understand loan 
 - Evaluated customer home ownership trends.
 - Built an interactive Power BI dashboard for business decision-making.
 
-## Dashboard Preview
+## 📊 Power BI Dashboard
+
+![Power BI Dashboard](images/powerbi_dashboard.png)
+
+---
+
+## 📈 Tableau Dashboard
+
+![Tableau Dashboard](images/tableau_dashboard.png)
 
 
 ## Skills Demonstrated
