@@ -33,8 +33,6 @@ The objective of this project is to help financial institutions understand loan 
 
 ![Power BI Dashboard](images/powerbi_dashboard.png)
 
----
-
 ## 📈 Tableau Dashboard
 
 ![Tableau Dashboard](images/tableau_dashboard.png)
